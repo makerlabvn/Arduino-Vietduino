@@ -1,6 +1,6 @@
 # Hướng dẫn nạp chương trình, cài đặt Phần mềm Arduino & Bộ thư viện Arduino Library 2024
 
-![Huong dan su dung Arduino](/image/arduino.jpg)
+[![Huong dan su dung Arduino](/image/arduino.png)](https://www.youtube.com/watch?v=yY8ZEi6zzrM)
 
 MakerLab hướng dẫn các bạn mới tìm hiểu về Arduino: cách cài đặt phần mềm Arduino, cách kết nối và nạp trương trình cho các bo mạch Arduino, cách cài bộ thư viện Arduino Library cho các phần cứng module, cảm biến khi sử dụng với các mạch Arduino.
 - Trang chủ Arduino: [https://www.arduino.cc/](https://www.arduino.cc/)
