@@ -6,8 +6,7 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về Arduino: cách cài đ
 - Trang chủ Arduino: [https://www.arduino.cc/](https://www.arduino.cc/)
 - Tải phần mềm Arduino: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 - Hướng dẫn Arduino cơ bản: [https://docs.arduino.cc/learn/](https://docs.arduino.cc/learn/)
-- Mua các mạch Arduino chính hãng: [https://hshop.vn/collections/arduino](https://hshop.vn/collections/arduino)
-- 
+- Mua các mạch Arduino chính hãng và Vietduino: [https://hshop.vn/collections/arduino](https://hshop.vn/collections/arduino)
 ## Link tải Driver CH340:
 [https://www.mediafire.com/file/fsem9mtf5yl56q6/%5BMakerLab.vn%5D+CH340+Driver+WinMacLinux.zip/file](https://www.mediafire.com/file/fsem9mtf5yl56q6/%5BMakerLab.vn%5D+CH340+Driver+WinMacLinux.zip/file)
 
