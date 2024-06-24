@@ -8,7 +8,7 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về Arduino: cách cài đ
 - Hướng dẫn Arduino cơ bản: [https://docs.arduino.cc/learn/](https://docs.arduino.cc/learn/)
 
 ## Thiết bị sử dụng
-- [Các mạch Arduino chính hãng và Vietduino](https://hshop.vn/collections/arduino](https://hshop.vn/collections/arduino)
+- [Các mạch Arduino chính hãng và Vietduino](https://hshop.vn/collections/arduino)
 - [Cảm biến siêu âm MKE-S01 Ultrasonic Distance Sensor](https://www.makerlab.vn/mkes01)
 
 ## Link tải Driver CH340:
