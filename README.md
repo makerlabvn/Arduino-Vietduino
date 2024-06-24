@@ -17,4 +17,4 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về Arduino: cách cài đ
 
 ## Nhà phân phối
 
-- Các bạn có thể mua sản phẩm của MakerLab tại các [nhà phân phối của MakerLab](https://www.makerlab.vn/nha-phan-phoi/).
+- Các bạn có thể mua sản phẩm của MakerLab tại các [Nhà Phân Phối của MakerLab.](https://www.makerlab.vn/distributor/)
