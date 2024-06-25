@@ -12,7 +12,7 @@ MakerLab hướng dẫn các bạn mới tìm hiểu về Arduino: cách cài đ
 - [Cảm biến siêu âm MKE-S01 Ultrasonic Distance Sensor](https://www.makerlab.vn/mkes01)
 
 ## Link tải Driver CH340:
-[https://www.makerlab.vn/ch340driver](https://www.makerlab.vn/ch340driver)
+[https://www.makerlab.vn/ch340driver](https://www.makerlab.vn/ch340)
 
 ## Hỗ trợ và liên hệ:
 
